@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.color-nav{
+    background-color: #4a0000;
+}
+
+.text-color{
+    color: #ffb993;
+}
+
+.text-color:hover{
+    color: #a65b3a;
+}
